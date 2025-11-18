@@ -4,9 +4,9 @@ const papers = [
 
   {
     id: 2,
-    title: "Domain-Adaptive Transformer for Data-Efficient Glioma Segmentation in Sub-Saharan MRI",
-    authors: "Abolade, I., Udo, A., Ojo, A., Oyetunji, A., Ajigbotosho, H., Iorumbur, A., Raymond, C., & Adewole, M.",
-    venue: "ISBI, In review",
+    title: "AfriCrack: Benchmarking Domain-Shift Robustness of Crack Segmentation Models in African Infrastructure",
+    authors: "Olaniyi, Y., Awofeso, Z., Olusheye, I.",
+    venue: "CVPR 2026, In review",
     year: "2025",
     links: [
       {
@@ -17,27 +17,14 @@ const papers = [
   },
   {
     id: 1,
-    title: "Addressing Domain Shift in Low-Resource Neuroimaging: Glioma Segmentation for Sub-Saharan MRI",
-    authors: "Abolade, I.",
+    title: "Understanding LoRA Update Complexity Through Stable Rank",
+    authors: "Awofeso, Z., Orvieto, A., Geiping, J.",
     venue: "WiML @ NeurIPS",
     year: "2025",
     links: [
       {
         text: "OpenReview",
-        url: "https://openreview.net/forum?id=4VzB93HogD"
-      }
-    ]
-  },
-  {
-    id: 3,
-    title: "SharpXR: Structure-Aware Denoising for Pediatric Chest X-Rays",
-    authors: "Abolade, I., Idoko, E., Odelola, S., Omoigui, P., Adebanwo, A., Iorumbur, A., Anazodo, U., Crimi, A., & Confidence, R.",
-    venue: "MIRASOL @ MICCAI, Best Paper Runner-up (Springer LNCS)",
-    year: "2025",
-    links: [
-      {
-        text: "Preprint",
-        url: "https://arxiv.org/abs/2508.08518"
+        url: "https://openreview.net/forum?id=qmBLPS6tRP"
       }
     ]
   }

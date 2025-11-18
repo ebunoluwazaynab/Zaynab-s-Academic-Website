@@ -2,22 +2,12 @@ import { NewsSection } from "../../assets/styles";
 
 const newsItems = [
   {
-    id: 7,
-    date: "Nov 2025",
-    description: (
-      <>
-        We were invited to present &quot;SharpXR: Structure-Aware Denoising for Pediatric Chest X-Rays&quot; as a poster at 
-        <a href="https://icair.unilag.edu.ng/" target="_blank" rel="noopener noreferrer"> The International Conference on Artificial Intelligence and Robotics (ICAIR)</a>.
-      </>
-    ),
-  },
-  {
     id: 1,
     date: "Nov 2025",
     description: (
       <>
-        I will be giving my talk &quot;Why Your Medical AI Model Might Not Work in Africa: A Python Guide to Measuring Bias&quot; again at 
-        <a href="https://2025.conference.pyladies.com/en/" target="_blank" rel="noopener noreferrer"> PyLadiesCon 2025</a>.
+        We were invited to present &quot;AfriCrack: Benchmarking Domain-Shift Robustness of Crack Segmentation Models in African Infrastructure&quot; as a poster at 
+        <a href="https://icair.unilag.edu.ng/" target="_blank" rel="noopener noreferrer"> The International Conference on Artificial Intelligence and Robotics (ICAIR)</a>.
       </>
     ),
   },
@@ -26,9 +16,80 @@ const newsItems = [
     date: "Oct 2025",
     description: (
       <>
-        I led Team Mamalens, and we were a finalist at the Data Science for Health Ideathon (in collaboration with the 
-        <a href="https://deeplearningindaba.com/" target="_blank" rel="noopener noreferrer"> Deep Learning Indaba</a>). We also won the “most fun project” award!  
-        <a href="https://docs.google.com/presentation/d/17LVUDp3HcsDdlQ2ZxIaimRf1jW5snWvd-r6mWReY9Eo/edit?usp=sharing" target="_blank" rel="noopener noreferrer"> [Slides]</a>
+        I have just been appointed as ChairPerson 1 of the Learning, Research & Development (LRD) Board of the <a href="https://unilag.edu.ng/faculties/" target="_blank" rel="noopener noreferrer"> Faculty of Computing and Informatics, University of Lagos.</a>{' '}
+      </>
+    )
+  },
+  {
+    id: 3,
+    date: "Oct 2025",
+    description: (
+      <>
+        Received a $2,500 grant to present my poster on &quot;Understanding LoRA Update Complexity Through Stable Ranks&quot;
+        at the <a href="https://www.wiml.org/events/wiml-workshop-%40-neurips-2025" target="_blank" rel="noopener noreferrer"> Women in Machine Learning Workshop (WiML), NeuRIPS 2025</a>.
+      </>
+    ),
+  },
+  {
+    id: 4,
+    date: "Sept 2025",
+    description: (
+      <>
+        My talk &quot;What bitsandbytes Teaches About Efficiency&quot; was accepted to <a href="https://ng.pycon.org/" target="_blank" rel="noopener noreferrer"> PyCon Nigeria 2025</a>.
+      </>
+    ),
+  },
+  {
+    id: 5,
+    date: "Sept 2025",
+    description: (
+      <>
+        Attended the <a href="https://summer.rise-miccai.org/" target="_blank" rel="noopener noreferrer">How to be a Startup CTO Summer School 2025</a>, a one-week program on medical image in Postdam.
+      </>
+    ),
+  },
+  {
+    id: 6,
+    date: "Sept 2025",
+    description: (
+      <>
+        Delivered a talk on &quot;Dynamics of Low-Rank Adapters in Language Models&quot; at the <a href="https://ng.pycon.org/" target="_blank" rel="noopener noreferrer"> CaCTuS Scientific Symposium</a>, marking the end of my summer internship at Max Planck. <a href="https://docs.google.com/presentation/d/1FQYHi3cvTZKPZ8NSkW646vOLWlyKP7ZKYIKjU2yCRl4/edit?usp=sharing" target="_blank" rel="noopener noreferrer"> [Slides]</a>
+      </>
+    ),
+  },
+  {
+    id: 6,
+    date: "Jul 2025",
+    description: (
+      <>
+        Completed my ML Engineering Internship at <a href="https://ng.pycon.org/" target="_blank" rel="noopener noreferrer"> Curacel</a>, and began a summer research internship at the <a href="https://docs.google.com/presentation/d/1FQYHi3cvTZKPZ8NSkW646vOLWlyKP7ZKYIKjU2yCRl4/edit?usp=sharing" target="_blank" rel="noopener noreferrer"> Max Planck Institute for Intelligent Systems.</a>
+      </>
+    ),
+  },
+  {
+    id: 7,
+    date: "Apr 2025",
+    description: (
+      <>
+        Started an ML Engineering Internship at <a href="https://ng.pycon.org/" target="_blank" rel="noopener noreferrer"> Curacel</a>, working on applied machine learning and model efficiency.
+      </>
+    ),
+  },
+  {
+    id: 7,
+    date: "Feb 2025",
+    description: (
+      <>
+       Invited by <a href="https://www.rawise.org.rw/" target="_blank" rel="noopener noreferrer"> RAWISE</a> and <a href="https://www.rawise.org.rw/" target="_blank" rel="noopener noreferrer"> AFRETEC</a> and to give an inspirational talk at the International Day of Women and Girls in Science 2025 in Kigali on “Unpacking STEM Careers: Her Voice in Science.”
+      </>
+    ),
+  },
+  {
+    id: 8,
+    date: "Jan 2025",
+    description: (
+      <>
+        Accepted for a research internship at the Max Planck Institute for Intelligent Systems!
       </>
     ),
   },
@@ -42,16 +103,7 @@ const newsItems = [
       </>
     ),
   },
-  {
-    id: 4,
-    date: "Oct 2025",
-    description: (
-      <>
-        Delivered a talk on &quot;Why Your Medical AI Model Might Not Work in Africa: A Python Guide to Measuring Bias&quot; at 
-        <a href="https://ng.pycon.org/" target="_blank" rel="noopener noreferrer"> PyCon Nigeria 2025</a>.   <a href="https://docs.google.com/presentation/d/1FQYHi3cvTZKPZ8NSkW646vOLWlyKP7ZKYIKjU2yCRl4/edit?usp=sharing" target="_blank" rel="noopener noreferrer"> [Slides]</a>
-      </>
-    ),
-  },
+  
   {
     id: 5,
     date: "Oct 2025",

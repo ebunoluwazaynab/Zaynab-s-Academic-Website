@@ -1,31 +1,24 @@
 import { HeroContainer } from "../../assets/styles"
-import profile from "../../assets/img/prof_pic3.jpeg"
+import profile from "../../assets/img/prof_pic4.jpg"
 
 const Hero = () => {
   return (
     <HeroContainer id="hero">
-      <h1>Ilerioluwakiiye Abolade</h1>
+      <h1>Zaynab Awofeso</h1>
       <div className="hero-content">
         <div className="hero-text">
           <div className="social-links">
-            <a href="mailto:aboladeilerioluwakiiye@gmail.com" target="_blank" rel="noopener noreferrer">Email</a>
-            <a href="https://drive.google.com/file/d/1TyEKdL7yQ_z4Q6LoDdpCxnb5HUSmO9ry/view?usp=sharing" target="_blank" rel="noopener noreferrer">CV</a>
-            <a href="https://github.com/ileri-oluwa-kiiye" target="_blank" rel="noopener noreferrer">GitHub</a>
-            <a href="https://www.linkedin.com/in/ilerioluwakiiye" target="_blank" rel="noopener noreferrer">LinkedIn</a>
-            <a href="https://twitter.com/llerioluwakiiye" target="_blank" rel="noopener noreferrer">Twitter</a>
+            <a href="mailto:zayawofeso@gmail.com" target="_blank" rel="noopener noreferrer">Email</a>
+            <a href="https://drive.google.com/file/d/1x5KoIwlurZDiVCxNmf9qSyczBwUOOg0w/view?usp=sharing" target="_blank" rel="noopener noreferrer">CV</a>
+            <a href="https://github.com/ebunoluwazaynab" target="_blank" rel="noopener noreferrer">GitHub</a>
+            <a href="https://www.linkedin.com/in/zaynab-awofeso" target="_blank" rel="noopener noreferrer">LinkedIn</a>
           </div>
           
           <p>
-            I am Ilerioluwakiiye Abolade, a final-year Mechatronics Engineering student at the 
-            Federal University of Agriculture, Abeokuta, Nigeria, and an independent researcher at 
-            <a href="https://mlcollective.org" target="_blank" rel="noopener noreferrer"> ML Collective</a>, 
+            I am Zaynab Awofeso, a final-year Computer Science student at the University of Lagos, Lagos, Nigeria,
+            and an independent researcher at <a href="https://mlcollective.org" target="_blank" rel="noopener noreferrer"> ML Collective</a>, 
             an open science community for self-driven AI researchers. 
-            I was also recently a Research Fellow at 
-            <a href="https://event.fourwaves.com/spark/pages" target="_blank" rel="noopener noreferrer"> SPARK Academy</a>, 
-             supervised by 
-             <a href="https://www.med.upenn.edu/globalhealth/maruf-adewole-phd.html" target="_blank" rel="noopener noreferrer"> Dr. Maruf Adewole </a> 
-             and 
-            <a href="https://www.mcgill.ca/neuro/udunna-anazodo-phd" target="_blank" rel="noopener noreferrer"> Prof. Udunna Anazodo</a>.
+            I was also recently a Research Intern at the <a href="https://is.mpg.de/" target="_blank" rel="noopener noreferrer"> Max Planck Institute for Intelligent Systems</a>, supervised by <a href="http://orvi.altervista.org/" target="_blank" rel="noopener noreferrer"> Dr. Antonio Orvieto </a> and <a href="https://jonasgeiping.github.io/" target="_blank" rel="noopener noreferrer"> Dr. Jonas Geiping</a>.
           </p>
 
           <p>
