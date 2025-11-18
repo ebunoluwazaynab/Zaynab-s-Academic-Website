@@ -32,7 +32,7 @@ const papers = [
 
 const Papers = () => {
   const renderAuthorsWithBoldName = (authors) => {
-    const nameToBold = "Abolade, I.";
+    const nameToBold = "Awofeso, Z.";
     const parts = authors.split(nameToBold);
     
     if (parts.length === 1) {

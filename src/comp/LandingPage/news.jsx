@@ -94,160 +94,91 @@ const newsItems = [
     ),
   },
   {
-    id: 3,
-    date: "Oct 2025",
+    id: 9,
+    date: "Jan 2025",
     description: (
       <>
-        I was invited as a guest speaker to speak on  <a href="https://docs.google.com/presentation/d/1o1sqlk28dzbdeLgcwLCnaqV-XjCXnD8NrVayj5IjQhw/edit?usp=sharing" target="_blank" rel="noopener noreferrer">&quot;Making Impact Beyond School&quot;  </a>  at the Freshers Orientation of the 
-        Association of Mechatronics Engineering Students (AMTES), FUNAAB. Thank you to the executives!
+        Received an €800 grant to attend PyCon DE & PyData 2025.
       </>
     ),
   },
   
   {
-    id: 5,
-    date: "Oct 2025",
+    id: 10,
+    date: "Oct 2024",
     description: (
       <>
-        I have just been appointed as Co-Lead of the 
-        <a href="https://gdg.community.dev/gdg-on-campus-federal-university-of-agriculture-abeokuta-nigeria/" target="_blank" rel="noopener noreferrer"> Google Developer Groups FUNAAB</a>, after serving as ML Co-Lead in the previous year.{' '}
-        <a href="https://chat.whatsapp.com/IHdzT3JF5B4IgNq4u6BNKU" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:underline">Join our community here!</a>
+        Invited by TensorFlow Ibadan to give my talk “Building a Simple Chatbot with Rasa” after presenting it at IndabaX Nigeria 2024.
       </>
     )
   },
-  {
-    id: 6,
-    date: "Sept 2025",
-    description: (
-      <>
-        Presented &quot;SharpXR: Structure-Aware Denoising for Pediatric Chest X-Rays&quot;  at the MIRASOL Workshop, 
-         — <b>  awarded Best Paper Runner-Up!</b>
-      </>
-    ),
-  },
-  {
-    id: 7,
-    date: "Sept 2025",
-    description: (
-      <>
-        Our paper &quot;Addressing Domain Shift in Low-Resource Neuroimaging: Glioma Segmentation for Sub-Saharan MRI&quot; was accepted to 
-        <a href="https://sites.google.com/wimlworkshop.org/wimlworkshopneurips2025/home" target="_blank" rel="noopener noreferrer"> WiML @ NeurIPS 2025</a>. Awarded a full travel grant to attend.
-      </>
-    ),
-  },
-  {
-    id: 8,
-    date: "Aug 2025",
-    description: (
-      <>
-        Won a <b>Best Poster Award</b> at the 
-        <a href="https://deeplearningindaba.com/" target="_blank" rel="noopener noreferrer"> Deep Learning Indaba 2025</a> for  
-        &quot;Fairness-Aware Machine Learning for Social Bias Detection in Healthcare Research Datasets.&quot; which I presented as a collaborator. <a href="https://drive.google.com/file/d/1H2FJLdhIbC-CqsdtXp1H5R2d35ZRlnPq/view?usp=sharing" target="_blank" rel="noopener noreferrer"> [Poster]</a>
-      </>
-    ),
-  },
-  {
-    id: 9,
-    date: "July 2025",
-    description: (
-      <>
-        Attended the <a href="https://summer.rise-miccai.org/" target="_blank" rel="noopener noreferrer">RISE-MICCAI Summer School 2025</a>, a one-week program on medical image computing and AI in healthcare.
-      </>
-    ),
-  },
-  {
-    id: 10,
-    date: "June 2025",
-    description: (
-      <>
-        Received a scholarship for the <a href="https://aimi.stanford.edu/aimi25/agenda" target="_blank" rel="noopener noreferrer">2025 Stanford AIMI Symposium</a>, which included complimentary virtual registration for the event held at Stanford University on June 3, 2025.
-      </>
-    ),
-  },
+
   {
     id: 11,
-    date: "June 2025",
+    date: "Sept 2024",
     description: (
       <>
-        My first paper &quot;SharpXR: Structure-Aware Denoising for Pediatric Chest X-Rays&quot; was accepted at the <a href="https://event.fourwaves.com/mirasol/pages" target="_blank" rel="noopener noreferrer"> MICCAI MIRASOL Workshop!</a> I led this research as the lead for the 
-        <a href="https://mlcollective.org" target="_blank" rel="noopener noreferrer"> ML Collective</a> medical imaging focus group in Nigeria. Congratulations to the team!
+        Gave a talk at PyCon Africa 2024 on improving efficiency in Python workflows.
       </>
     ),
   },
+
   {
     id: 12,
-    date: "Mar 2025",
+    date: "Sept 2024",
     description: (
       <>
-        Excited to have been selected for the 
-        <a href="https://miccai.org/index.php/about-miccai/miccai-society-mentorship-program/" target="_blank" rel="noopener noreferrer"> MICCAI Society Mentorship Program</a> and be paired with <a href="https://qmeng99.github.io//" target="_blank" rel="noopener noreferrer"> Prof. Qingjie Meng!</a>
+		Presented a poster at the Weakly Supervised Computer Vision Workshop during the Deep Learning Indaba 2024, receiving a recognition award for societal relevance and impact.
       </>
     ),
   },
+
   {
     id: 13,
     date: "Sept 2024",
     description: (
       <>
-        Presented a poster on “Maternify” at the <a href="https://deeplearningindaba.com/" target="_blank" rel="noopener noreferrer">Deep Learning Indaba 2024</a> in Dakar, Senegal. Thank you to the DLI Committee for the full sponsorship.
+		Presented my poster on crack detection in reinforced concrete structures at the Deep Learning Indaba 2024 and received a Best Poster Award.
       </>
     ),
   },
+
   {
     id: 14,
-    date: "Sept 2024",
+    date: "Aug 2024",
     description: (
       <>
-        I spoke at <a href="https://2024.djangocon.us/" target="_blank" rel="noopener noreferrer">DjangoCon US 2024</a> on &quot;The Magic of Dependencies Installing Themselves,&quot; highlighting PEP 723 for reproducibility and 
-        efficiency. <a href="https://pretalx.com/djangocon-us-2024/talk/8TBXVX/" target="_blank" rel="noopener noreferrer">[Talk]</a>
+		Completed a summer internship at ARM HoldCo.
       </>
     ),
   },
+
   {
     id: 15,
-    date: "Sept 2024",
+    date: "July 2024",
     description: (
       <>
-        I will be at 
-        <a href="https://africa.pycon.org/2024/" target="_blank" rel="noopener noreferrer"> PyCon Africa 2024</a> in Accra, Ghana! Thank you to the Python community for the full sponsorship.
+		Hosted a hands-on workshop on “Building a Simple Chatbot with Rasa” at the AI & Robotics Lab (AIRLab), University of Lagos.
       </>
     ),
   },
+
   {
     id: 16,
     date: "June 2024",
     description: (
       <>
-        Earned the “Microsoft Azure Responsible AI Workshop Coach” badge for mentoring participants on building fair and trustworthy AI systems.
+		Gave a talk on “Building a Simple Chatbot with Rasa” at IndabaX Nigeria 2024.
       </>
     ),
   },
+
   {
     id: 17,
-    date: "May 2024",
+    date: "June 2024",
     description: (
       <>
-        I built “Maternify,” an ML-powered prenatal care chatbot, with Toyibat Adele, Kelechi Chbundu and Muslimah Sarumi, and we ranked Top 5 in the “Microsoft Ambassador’s AI Challenge.”
-      </>
-    ),
-  },
-  {
-    id: 18,
-    date: "Feb 2024",
-    description: (
-      <>
-        Received a $2,000 grant 
-        to attend  <a href="https://us.pycon.org/2024/" target="_blank" rel="noopener noreferrer"> PyCon US 2024</a>, the largest annual convention for the Python programming language.
-      </>
-    ),
-  },
-  {
-    id: 19,
-    date: "Jan 2024",
-    description: (
-      <>
-        Delivered a talk on &quot;Balancing Academics and a Thriving Tech Career&quot; at the 
-        AMTES (FUNAAB) Freshers Orientation
+		Presented my first research poster, “Crack Detection in Reinforced Concrete Structures Using CNNs,” at IndabaX Nigeria 2024.
       </>
     ),
   }

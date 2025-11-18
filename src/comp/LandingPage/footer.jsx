@@ -4,8 +4,8 @@ const FooterComponent = () => {
   return (
     <Footer>
       <p>
-        © Copyright {new Date().getFullYear()} Ilerioluwakiiye Abolade. 
-        Last updated: November 11, 2025.
+        © Copyright {new Date().getFullYear()} Zaynab Awofeso. 
+        Last updated: November 18, 2025.
       </p>
     </Footer>
   );
