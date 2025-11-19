@@ -6,7 +6,7 @@ const newsItems = [
     date: "Nov 2025",
     description: (
       <>
-        We were invited to present &quot;AfriCrack: Benchmarking Domain-Shift Robustness of Crack Segmentation Models in African Infrastructure&quot; as a poster at <a href="https://icair.unilag.edu.ng/" target="_blank" rel="noopener noreferrer"> The International Conference on Artificial Intelligence and Robotics (ICAIR)</a>.
+        Invited to present &quot;AfriCrack: Benchmarking Domain-Shift Robustness of Crack Segmentation Models in African Infrastructure&quot; as a poster at <a href="https://icair.unilag.edu.ng/" target="_blank" rel="noopener noreferrer"> The International Conference on Artificial Intelligence and Robotics (ICAIR)</a>.
       </>
     ),
   },
@@ -15,7 +15,7 @@ const newsItems = [
     date: "Oct 2025",
     description: (
       <>
-        I have just been appointed as <b>ChairPerson 1 of the Learning, Research & Development (LRD) Board</b> of the <a href="https://unilag.edu.ng/faculties/" target="_blank" rel="noopener noreferrer"> Faculty of Computing and Informatics, University of Lagos.</a>{' '}
+        Appointed as a <b>ChairPerson of the Learning, Research & Development (LRD) Board</b> of the <a href="https://unilag.edu.ng/faculties/" target="_blank" rel="noopener noreferrer"> Faculty of Computing and Informatics, University of Lagos.</a>{' '}
       </>
     )
   },
@@ -24,8 +24,8 @@ const newsItems = [
     date: "Sept 2025",
     description: (
       <>
-        Our paper &quot;Understanding LoRA Update Complexity Through Stable Ranks&quot; was accepted to 
-        the <a href="https://www.wiml.org/events/wiml-workshop-%40-neurips-2025" target="_blank" rel="noopener noreferrer"> Women in Machine Learning Workshop (WiML) at NeurIPS 2025</a>. I received a $2,500 travel grant from WiML to present it at the workshop.
+        Received a $2,500 travel grant from <a href="https://www.wiml.org" target="_blank" rel="noopener noreferrer"> Women in Machine Learning (WiML)</a> to present &quot;Understanding LoRA Update Complexity Through Stable Ranks&quot; after it was accepted to 
+        the <a href="https://www.wiml.org/events/wiml-workshop-%40-neurips-2025" target="_blank" rel="noopener noreferrer"> Women in Machine Learning Workshop (WiML) at NeurIPS 2025</a>.
       </>
     ),
   },
@@ -34,7 +34,7 @@ const newsItems = [
     date: "Sept 2025",
     description: (
       <>
-        My talk &quot;What bitsandbytes Teaches About Efficiency&quot; was accepted to <a href="https://ng.pycon.org/" target="_blank" rel="noopener noreferrer"> PyCon Nigeria 2025</a>!
+        Accepted to give a talk on &quot;What bitsandbytes Teaches About Efficiency&quot; at <a href="https://ng.pycon.org/" target="_blank" rel="noopener noreferrer"> PyCon Nigeria 2025</a>!
       </>
     ),
   },
@@ -61,7 +61,7 @@ const newsItems = [
     date: "Apr 2025",
     description: (
       <>
-        I joined <a href="https://www.curacel.co/" target="_blank" rel="noopener noreferrer"> Curacel</a> as an ML Engineering Intern. I will be working on applied machine learning and model efficiency.
+        Joined <a href="https://www.curacel.co/" target="_blank" rel="noopener noreferrer"> Curacel</a> as an ML Engineering Intern. I will be working on applied machine learning and model efficiency.
       </>
     ),
   },
@@ -70,7 +70,7 @@ const newsItems = [
     date: "Feb 2025",
     description: (
       <>
-       I was invited to give an inspirational talk at Rwanda’s International Day of Women and Girls in Science celebration hosted by <a href="https://www.rawise.org.rw/" target="_blank" rel="noopener noreferrer"> RAWISE</a> and <a href="https://www.rawise.org.rw/" target="_blank" rel="noopener noreferrer"> AFRETEC</a>. 
+       Invited to give an inspirational talk at Rwanda’s International Day of Women and Girls in Science celebration hosted by <a href="https://www.rawise.org.rw/" target="_blank" rel="noopener noreferrer"> RAWISE</a> and <a href="https://engineering.cmu.edu/afretec/" target="_blank" rel="noopener noreferrer"> AFRETEC</a>. 
       </>
     ),
   },
@@ -108,7 +108,7 @@ const newsItems = [
     date: "Sept 2024",
     description: (
       <>
-		Invited to present our poster, "Crack Detection in Reinforced Concrete Structures," at the <a href="" target="_blank" rel="https://wscv-indaba.github.io/2024.html"> Weakly Supervised Computer Vision Workshop</a> during the Deep Learning Indaba 2024. Received a recognition award for societal relevance and impact.
+		Invited to present our poster, "Crack Detection in Reinforced Concrete Structures," at the <a href="https://wscv-indaba.github.io/2024.html" target="_blank" rel="noopener noreferrer"> Weakly Supervised Computer Vision Workshop</a> during the Deep Learning Indaba 2024. Received a recognition award for societal relevance and impact.
       </>
     ),
   },
@@ -138,7 +138,7 @@ const newsItems = [
     date: "June 2024",
     description: (
       <>
-		Gave a talk on “Building a Simple Chatbot with Rasa” at <a href="https://indabaxng.github.io/" target="_blank" rel="noopener noreferrer">Deep Learning IndabaX Nigeria</a> 2024. <a href="https://docs.google.com/presentation/d/1Ux3QbiPwNB44XnXGcmtcVAVubfIgtTRmqsNtW5idHCw/edit?usp=sharing" target="_blank" rel="noopener noreferrer"> [Slides]</a>
+		Gave a talk on “Building a Simple Chatbot with Rasa” at <a href="https://indabaxng.github.io/2024/" target="_blank" rel="noopener noreferrer">Deep Learning IndabaX Nigeria</a> 2024. <a href="https://docs.google.com/presentation/d/1Ux3QbiPwNB44XnXGcmtcVAVubfIgtTRmqsNtW5idHCw/edit?usp=sharing" target="_blank" rel="noopener noreferrer"> [Slides]</a>
       </>
     ),
   },
@@ -148,7 +148,7 @@ const newsItems = [
     date: "June 2024",
     description: (
       <>
-		Presented my first-ever research poster, “Crack Detection in Reinforced Concrete Structures Using CNNs,” at <a href="https://indabaxng.github.io/" target="_blank" rel="noopener noreferrer">Deep Learning IndabaX Nigeria</a> 2024.
+		Presented my first-ever research poster, “Crack Detection in Reinforced Concrete Structures Using CNNs,” at <a href="https://indabaxng.github.io/2024/" target="_blank" rel="noopener noreferrer">Deep Learning IndabaX Nigeria</a> 2024.
       </>
     ),
   }
