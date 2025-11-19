@@ -15,23 +15,7 @@ import blog10 from "../assets/img/blog10.jpg"
 
 
 const blogPosts = [
-    {
-      id: 1,
-      title: "\“Attention Is All You Need\” Explained",
-      //excerpt: "",
-      author: "Zaynab Awofeso",
-      //publication: "",
-      date: "Jan 11, 2025",
-      readTime: "10 min read",
-      image: blog1,
-      //content: "",
-      links: [
-        {
-          text: "Read on Medium",
-          url: "https://medium.com/codex/attention-is-all-you-need-explained-ebdb02c7f4d4"
-        }
-      ]
-    },
+    
 
     {
       id: 2,
@@ -47,6 +31,41 @@ const blogPosts = [
         {
           text: "Read on Medium",
           url: "https://medium.com/codex/a-friendly-but-thorough-breakdown-of-the-lora-paper-b77c6afa6e6f"
+        }
+      ]
+    },
+
+     {
+      id: 6,
+      title: "A Review of AccentFold: One of the Most Important Papers on African ASR",
+      //excerpt: "This article will guide you step-by-step through integrating RTK Query into your project.",
+      author: "Zaynab Awofeso",
+      //publication: "Hashnode",
+      date: "Apr 23, 2025",
+      readTime: "9 min read",
+      image: blog6, // <-- add an image variable for this post
+      //content: "A step-by-step walkthrough of integrating RTK Query into your React project, simplifying data fetching and state management while ensuring efficiency and scalability.",
+      links: [
+        {
+          text: "Read on Medium",
+          url: "https://medium.com/@ZaynabAwofeso/a-review-of-accentfold-one-of-the-most-important-papers-on-african-asr-ddf8772ce44d"
+        }
+      ]
+    },
+    {
+      id: 1,
+      title: "\“Attention Is All You Need\” Explained",
+      //excerpt: "",
+      author: "Zaynab Awofeso",
+      //publication: "",
+      date: "Jan 11, 2025",
+      readTime: "10 min read",
+      image: blog1,
+      //content: "",
+      links: [
+        {
+          text: "Read on Medium",
+          url: "https://medium.com/codex/attention-is-all-you-need-explained-ebdb02c7f4d4"
         }
       ]
     },
@@ -105,23 +124,7 @@ const blogPosts = [
       ]
     },
 
-    {
-      id: 6,
-      title: "A Review of AccentFold: One of the Most Important Papers on African ASR",
-      //excerpt: "This article will guide you step-by-step through integrating RTK Query into your project.",
-      author: "Zaynab Awofeso",
-      //publication: "Hashnode",
-      date: "Apr 23, 2025",
-      readTime: "9 min read",
-      image: blog6, // <-- add an image variable for this post
-      //content: "A step-by-step walkthrough of integrating RTK Query into your React project, simplifying data fetching and state management while ensuring efficiency and scalability.",
-      links: [
-        {
-          text: "Read on Medium",
-          url: "https://medium.com/@ZaynabAwofeso/a-review-of-accentfold-one-of-the-most-important-papers-on-african-asr-ddf8772ce44d"
-        }
-      ]
-    },
+   
 
     {
       id: 7,

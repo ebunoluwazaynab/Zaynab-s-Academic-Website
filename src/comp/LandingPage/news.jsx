@@ -6,8 +6,7 @@ const newsItems = [
     date: "Nov 2025",
     description: (
       <>
-        We were invited to present &quot;AfriCrack: Benchmarking Domain-Shift Robustness of Crack Segmentation Models in African Infrastructure&quot; as a poster at 
-        <a href="https://icair.unilag.edu.ng/" target="_blank" rel="noopener noreferrer"> The International Conference on Artificial Intelligence and Robotics (ICAIR)</a>.
+        We were invited to present &quot;AfriCrack: Benchmarking Domain-Shift Robustness of Crack Segmentation Models in African Infrastructure&quot; as a poster at <a href="https://icair.unilag.edu.ng/" target="_blank" rel="noopener noreferrer"> The International Conference on Artificial Intelligence and Robotics (ICAIR)</a>.
       </>
     ),
   },
@@ -16,17 +15,17 @@ const newsItems = [
     date: "Oct 2025",
     description: (
       <>
-        I have just been appointed as ChairPerson 1 of the Learning, Research & Development (LRD) Board of the <a href="https://unilag.edu.ng/faculties/" target="_blank" rel="noopener noreferrer"> Faculty of Computing and Informatics, University of Lagos.</a>{' '}
+        I have just been appointed as <b>ChairPerson 1 of the Learning, Research & Development (LRD) Board</b> of the <a href="https://unilag.edu.ng/faculties/" target="_blank" rel="noopener noreferrer"> Faculty of Computing and Informatics, University of Lagos.</a>{' '}
       </>
     )
   },
   {
     id: 3,
-    date: "Oct 2025",
+    date: "Sept 2025",
     description: (
       <>
-        Received a $2,500 grant to present my poster on &quot;Understanding LoRA Update Complexity Through Stable Ranks&quot;
-        at the <a href="https://www.wiml.org/events/wiml-workshop-%40-neurips-2025" target="_blank" rel="noopener noreferrer"> Women in Machine Learning Workshop (WiML), NeuRIPS 2025</a>.
+        Our paper &quot;Understanding LoRA Update Complexity Through Stable Ranks&quot; was accepted to 
+        the <a href="https://www.wiml.org/events/wiml-workshop-%40-neurips-2025" target="_blank" rel="noopener noreferrer"> Women in Machine Learning Workshop (WiML) at NeurIPS 2025</a>. I received a $2,500 travel grant from WiML to present it at the workshop.
       </>
     ),
   },
@@ -35,16 +34,7 @@ const newsItems = [
     date: "Sept 2025",
     description: (
       <>
-        My talk &quot;What bitsandbytes Teaches About Efficiency&quot; was accepted to <a href="https://ng.pycon.org/" target="_blank" rel="noopener noreferrer"> PyCon Nigeria 2025</a>.
-      </>
-    ),
-  },
-  {
-    id: 5,
-    date: "Sept 2025",
-    description: (
-      <>
-        Attended the <a href="https://summer.rise-miccai.org/" target="_blank" rel="noopener noreferrer">How to be a Startup CTO Summer School 2025</a>, a one-week program on medical image in Postdam.
+        My talk &quot;What bitsandbytes Teaches About Efficiency&quot; was accepted to <a href="https://ng.pycon.org/" target="_blank" rel="noopener noreferrer"> PyCon Nigeria 2025</a>!
       </>
     ),
   },
@@ -53,7 +43,7 @@ const newsItems = [
     date: "Sept 2025",
     description: (
       <>
-        Delivered a talk on &quot;Dynamics of Low-Rank Adapters in Language Models&quot; at the <a href="https://ng.pycon.org/" target="_blank" rel="noopener noreferrer"> CaCTuS Scientific Symposium</a>, marking the end of my summer internship at Max Planck. <a href="https://docs.google.com/presentation/d/1FQYHi3cvTZKPZ8NSkW646vOLWlyKP7ZKYIKjU2yCRl4/edit?usp=sharing" target="_blank" rel="noopener noreferrer"> [Slides]</a>
+        Delivered a talk on &quot;Dynamics of Low-Rank Adapters in Language Models&quot; at the <a href="https://is.mpg.de/events/2025-cactus-scientific-symposium" target="_blank" rel="noopener noreferrer"> CaCTuS Scientific Symposium</a> to mark the completion of my summer internship at the Max Planck Institute. <a href="https://docs.google.com/presentation/d/18uqITOVeW9Gj61Dk0g8nYXG2ma2QfVfEYnuHEXa_faI/edit?usp=sharing" target="_blank" rel="noopener noreferrer"> [Slides]</a>
       </>
     ),
   },
@@ -62,7 +52,7 @@ const newsItems = [
     date: "Jul 2025",
     description: (
       <>
-        Completed my ML Engineering Internship at <a href="https://ng.pycon.org/" target="_blank" rel="noopener noreferrer"> Curacel</a>, and began a summer research internship at the <a href="https://docs.google.com/presentation/d/1FQYHi3cvTZKPZ8NSkW646vOLWlyKP7ZKYIKjU2yCRl4/edit?usp=sharing" target="_blank" rel="noopener noreferrer"> Max Planck Institute for Intelligent Systems.</a>
+        Completed my ML Engineering Internship at <a href="https://www.curacel.co/" target="_blank" rel="noopener noreferrer"> Curacel</a>, and began a summer research internship at the <a href="https://is.mpg.de/" target="_blank" rel="noopener noreferrer"> Max Planck Institute for Intelligent Systems.</a>
       </>
     ),
   },
@@ -71,7 +61,7 @@ const newsItems = [
     date: "Apr 2025",
     description: (
       <>
-        Started an ML Engineering Internship at <a href="https://ng.pycon.org/" target="_blank" rel="noopener noreferrer"> Curacel</a>, working on applied machine learning and model efficiency.
+        I joined <a href="https://www.curacel.co/" target="_blank" rel="noopener noreferrer"> Curacel</a> as an ML Engineering Intern. I will be working on applied machine learning and model efficiency.
       </>
     ),
   },
@@ -80,7 +70,7 @@ const newsItems = [
     date: "Feb 2025",
     description: (
       <>
-       Invited by <a href="https://www.rawise.org.rw/" target="_blank" rel="noopener noreferrer"> RAWISE</a> and <a href="https://www.rawise.org.rw/" target="_blank" rel="noopener noreferrer"> AFRETEC</a> and to give an inspirational talk at the International Day of Women and Girls in Science 2025 in Kigali on “Unpacking STEM Careers: Her Voice in Science.”
+       I was invited to give an inspirational talk at Rwanda’s International Day of Women and Girls in Science celebration hosted by <a href="https://www.rawise.org.rw/" target="_blank" rel="noopener noreferrer"> RAWISE</a> and <a href="https://www.rawise.org.rw/" target="_blank" rel="noopener noreferrer"> AFRETEC</a>. 
       </>
     ),
   },
@@ -89,26 +79,16 @@ const newsItems = [
     date: "Jan 2025",
     description: (
       <>
-        Accepted for a research internship at the Max Planck Institute for Intelligent Systems!
+        Accepted for a research internship at the <a href="https://is.mpg.de/" target="_blank" rel="noopener noreferrer"> Max Planck Institute for Intelligent Systems.</a>
       </>
     ),
   },
-  {
-    id: 9,
-    date: "Jan 2025",
-    description: (
-      <>
-        Received an €800 grant to attend PyCon DE & PyData 2025.
-      </>
-    ),
-  },
-  
   {
     id: 10,
     date: "Oct 2024",
     description: (
       <>
-        Invited by TensorFlow Ibadan to give my talk “Building a Simple Chatbot with Rasa” after presenting it at IndabaX Nigeria 2024.
+        Invited by <a href="https://www.meetup.com/tensorflow-ibadan/" target="_blank" rel="noopener noreferrer">TensorFlow Ibadan</a> to give my talk “Building a Simple Chatbot with Rasa”. <a href="https://docs.google.com/presentation/d/1Ux3QbiPwNB44XnXGcmtcVAVubfIgtTRmqsNtW5idHCw/edit?usp=sharing" target="_blank" rel="noopener noreferrer"> [Slides]</a>
       </>
     )
   },
@@ -118,7 +98,7 @@ const newsItems = [
     date: "Sept 2024",
     description: (
       <>
-        Gave a talk at PyCon Africa 2024 on improving efficiency in Python workflows.
+        Gave a talk at <a href="https://africa.pycon.org/2024/" target="_blank" rel="noopener noreferrer">PyCon Africa 2024</a> on improving efficiency in Python workflows.
       </>
     ),
   },
@@ -128,7 +108,7 @@ const newsItems = [
     date: "Sept 2024",
     description: (
       <>
-		Presented a poster at the Weakly Supervised Computer Vision Workshop during the Deep Learning Indaba 2024, receiving a recognition award for societal relevance and impact.
+		Invited to present our poster, "Crack Detection in Reinforced Concrete Structures," at the <a href="" target="_blank" rel="https://wscv-indaba.github.io/2024.html"> Weakly Supervised Computer Vision Workshop</a> during the Deep Learning Indaba 2024. Received a recognition award for societal relevance and impact.
       </>
     ),
   },
@@ -138,17 +118,7 @@ const newsItems = [
     date: "Sept 2024",
     description: (
       <>
-		Presented my poster on crack detection in reinforced concrete structures at the Deep Learning Indaba 2024 and received a Best Poster Award.
-      </>
-    ),
-  },
-
-  {
-    id: 14,
-    date: "Aug 2024",
-    description: (
-      <>
-		Completed a summer internship at ARM HoldCo.
+		Won a <b>Best Poster Award</b> at <a href="https://deeplearningindaba.com/" target="_blank" rel="noopener noreferrer">Deep Learning Indaba</a> 2024 for presenting "Crack Detection in Reinforced Concrete Structures".
       </>
     ),
   },
@@ -158,7 +128,7 @@ const newsItems = [
     date: "July 2024",
     description: (
       <>
-		Hosted a hands-on workshop on “Building a Simple Chatbot with Rasa” at the AI & Robotics Lab (AIRLab), University of Lagos.
+		Invited by the <a href="https://airol.unilag.edu.ng/" target="_blank" rel="noopener noreferrer">AI & Robotics Lab (AIRLab), University of Lagos</a> to host a hands-on workshop on my talk “Building a Simple Chatbot with Rasa.” It was exciting to teach it again in a more practical, interactive format.  <a href="https://indabaxng.github.io/" target="_blank" rel="noopener noreferrer">Deep Learning IndabaX Nigeria</a> 2024. <a href="https://docs.google.com/presentation/d/1Ux3QbiPwNB44XnXGcmtcVAVubfIgtTRmqsNtW5idHCw/edit?usp=sharing" target="_blank" rel="noopener noreferrer"> [Slides]</a>
       </>
     ),
   },
@@ -168,7 +138,7 @@ const newsItems = [
     date: "June 2024",
     description: (
       <>
-		Gave a talk on “Building a Simple Chatbot with Rasa” at IndabaX Nigeria 2024.
+		Gave a talk on “Building a Simple Chatbot with Rasa” at <a href="https://indabaxng.github.io/" target="_blank" rel="noopener noreferrer">Deep Learning IndabaX Nigeria</a> 2024. <a href="https://docs.google.com/presentation/d/1Ux3QbiPwNB44XnXGcmtcVAVubfIgtTRmqsNtW5idHCw/edit?usp=sharing" target="_blank" rel="noopener noreferrer"> [Slides]</a>
       </>
     ),
   },
@@ -178,7 +148,7 @@ const newsItems = [
     date: "June 2024",
     description: (
       <>
-		Presented my first research poster, “Crack Detection in Reinforced Concrete Structures Using CNNs,” at IndabaX Nigeria 2024.
+		Presented my first-ever research poster, “Crack Detection in Reinforced Concrete Structures Using CNNs,” at <a href="https://indabaxng.github.io/" target="_blank" rel="noopener noreferrer">Deep Learning IndabaX Nigeria</a> 2024.
       </>
     ),
   }

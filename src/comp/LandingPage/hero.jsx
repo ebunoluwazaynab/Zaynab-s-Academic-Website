@@ -15,17 +15,16 @@ const Hero = () => {
           </div>
           
           <p>
-            I am Zaynab Awofeso, a final-year Computer Science student at the University of Lagos, Lagos, Nigeria,
+            I am Zaynab Awofeso, a final-year Computer Science student at the University of Lagos, Nigeria,
             and an independent researcher at <a href="https://mlcollective.org" target="_blank" rel="noopener noreferrer"> ML Collective</a>, 
             an open science community for self-driven AI researchers. 
-            I was also recently a Research Intern at the <a href="https://is.mpg.de/" target="_blank" rel="noopener noreferrer"> Max Planck Institute for Intelligent Systems</a>, supervised by <a href="http://orvi.altervista.org/" target="_blank" rel="noopener noreferrer"> Dr. Antonio Orvieto </a> and <a href="https://jonasgeiping.github.io/" target="_blank" rel="noopener noreferrer"> Dr. Jonas Geiping</a>.
+            I was also recently a Research Intern at the <a href="https://is.mpg.de/" target="_blank" rel="noopener noreferrer"> Max Planck Institute for Intelligent Systems</a>, supervised by <a href="http://orvi.altervista.org/" target="_blank" rel="noopener noreferrer"> Dr. Antonio Orvieto</a> and <a href="https://jonasgeiping.github.io/" target="_blank" rel="noopener noreferrer"> Dr. Jonas Geiping</a>.
           </p>
 
           <p>
-            My research lies at the intersection of deep learning and medical imaging, with a focus on 
-            domain adaptation, robustness, and fairness in low-resource healthcare settings. 
-            I aim to make medical AI models more reliable and accessible across diverse 
-            populations and imaging conditions.
+            My research interests center on efficient model design and understanding how learning systems 
+            generalize under limited computational resources. I am driven by the view that reducing resource 
+            demands enables more accessible and equitable deployment of advanced machine learning.
           </p>
         </div>
         <div className="hero-image">

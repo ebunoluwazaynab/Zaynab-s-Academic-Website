@@ -11,7 +11,7 @@ const papers = [
     links: [
       {
         text: "Preprint",
-        url: "https://arxiv.org/abs/2511.02928"
+        url: "https://xyz"
       }
     ]
   },
