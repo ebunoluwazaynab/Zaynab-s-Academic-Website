@@ -8,12 +8,12 @@ const papers = [
     authors: "Olaniyi, Y., Awofeso, Z., Olusheye, I.",
     venue: "CVPR 2026, In review",
     year: "2025",
-    links: [
+    /*links: [
       {
         text: "Preprint",
         url: "https://xyz"
       }
-    ]
+    ]*/
   },
   {
     id: 1,
